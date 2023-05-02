@@ -7,7 +7,7 @@
 
 
 **Project Link** - https://kind-river-03963b700.3.azurestaticapps.net/
-** project demo video link** - 
+** project demo video link** - https://clipchamp.com/watch/A3vi1sdhP42
 
 
 ## Features and Functionalities 😃
